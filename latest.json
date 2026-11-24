@@ -1,9 +1,9 @@
 {
-  "version_name": "1.0.15",
-  "version_code": 4051,
+  "version_name": "1.0.16",
+  "version_code": 4052,
   "min_supported_version_code": 4000,
   "min_schema_version": 2,
   "is_mandatory": false,
-  "apk_url": "https://raw.githubusercontent.com/dapzx2/nyiurcare-releases/main/apk/NyiurCare-1.0.15.apk",
+  "apk_url": "https://raw.githubusercontent.com/dapzx2/nyiurcare-releases/main/apk/NyiurCare-1.0.16.apk",
   "changelog": "- Semua titik pemeriksaan tampil di peta Beranda dan bisa langsung diketuk\n- Saat membuka Peta, cakupan wilayah tampil utuh seperti di Beranda\n- Bisa melihat sorotan bagian daun yang sakit dari titik di Peta\n- Perbesar foto di Panduan dan tampilan layar miring lebih rapi"
 }
