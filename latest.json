@@ -5,5 +5,5 @@
   "min_schema_version": 2,
   "is_mandatory": false,
   "apk_url": "https://raw.githubusercontent.com/dapzx2/nyiurcare-releases/main/apk/NyiurCare-1.0.14.apk",
-  "changelog": "- Titik Sebaran Wilayah sinkron penuh dengan Peta dan bisa diketuk langsung\n- Tombol Grad-CAM tersedia pada detail catatan di Peta\n- Zoom foto Panduan dan animasi login lebih halus\n- Perbaikan tampilan mode landscape HP dan header bersih tanpa bayangan"
+  "changelog": "- Semua titik pemeriksaan kini tampil di peta Beranda dan bisa langsung diketuk\n- Bisa melihat sorotan bagian daun yang sakit saat membuka titik di Peta\n- Perbesar foto di Panduan kini lebih nyaman\n- Tampilan lebih rapi saat layar HP dimiringkan"
 }
